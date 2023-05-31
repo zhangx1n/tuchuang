@@ -1,1 +1,0 @@
-/usr/bin/g++  -g   CMakeFiles/0voice_tuchuang.dir/main.cpp.o  -o 0voice_tuchuang 
